@@ -12,6 +12,7 @@ import com.orenda.xpert.repository.EmployeeRepository;
 public class EmployeeService {
   
 @Autowired
+//nnnnnn
   private EmployeeRepository repository;
 
   public Employee getEmployeeById(int id) {
